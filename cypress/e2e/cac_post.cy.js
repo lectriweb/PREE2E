@@ -10,7 +10,7 @@
 
 /*Get the cac website*/
       let preUsername = "lkbalogun"
-      let prePassword = "yellow"
+      let prePassword = ""
       let usernameInp = ":nth-child(1) > .ui > .ng-untouched"
       let passwordInp = ":nth-child(2) > .ui > .ng-untouched"
       let frame = '[style="width: 304px; height: 78px;"] > div > iframe'  
